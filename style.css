@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* body start*/
+
+body{
+    background-color:whitesmoke;
+    color: black;
+    
+}
+.to-do-form{
+    width: 400px;
+    height: 200px;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+}
